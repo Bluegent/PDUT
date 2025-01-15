@@ -57,4 +57,16 @@ This is an example project using Django, Python's unittest testing framework, an
 
 ---
 
+## Additional Instructions
+
+### Exploring Unit Test Examples
+1. Navigate to the [Tokenizer file](MyDjangoProject/sub_project/tokenizer.py) to view the implementation of a tokenizer function.
+2. Navigate to the [Tokenizer test file](MyDjangoProject/sub_project/test_tokenizer.py) to see unit tests written for the tokenizer function. These tests provide examples of using Python's `unittest` framework.
+
+### Viewing the Tokenizer in Action
+1. Navigate to the [Main App views file](MyDjangoProject/MainApp/views.py) to see how the `tokenizer` function is used within a Django view.
+2. The view demonstrates integrating a custom Python function from a sub-library into a Django application.
+
+---
+
 Enjoy exploring the project! If you have any questions, feel free to ask.
